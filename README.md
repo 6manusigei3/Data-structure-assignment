@@ -3,16 +3,10 @@
 ## Group Members
 
 1.Emmanuel Kipchumba   -BSCCS/2025/40046
-
 2.Weignstone Churchill -BSCCS/2025/39599
-
 3.Alvin Charles        -BSCCS/2025/39841
-
 4.James Ndiritu        -BSCCS/2025/39528
-
 5.Abraham Wambugu      -BSCCS/2025/40383
-
-
 
 
 
